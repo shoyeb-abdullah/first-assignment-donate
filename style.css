@@ -180,6 +180,7 @@ h3{
     box-shadow: 0px 0px 10px gray;
     padding: 20px;
     margin-right: 5%;
+    border-radius: 10px;
 }
 .project-container p{
     text-align: left;
@@ -200,6 +201,7 @@ h3{
     width: 39%;
     padding: 20px;
     box-shadow: 0px 0px 10px gray;
+    border-radius: 10px;
 }
 .mini{
     border-bottom: 2px solid rgb(94,238,238); 
